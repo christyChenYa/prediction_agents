@@ -102,7 +102,7 @@ This repo is inteded for use with Python 3.9
 7. Try the command line interface...
 
    ```
-   python scripts/python/cli.py
+   python -m scripts.python.cli --help
    ```
 
    Or just go trade! 
